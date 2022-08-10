@@ -22,10 +22,10 @@ Some Details that you need to pay attention:
 * Each of the Account types have their own Extract 
 * You can check on every tansition you make in the account, that includes (Deposit,withdrawal,Tranfer and any transition involving overdraft)
 
-#How to run this project
+# How to run this project
 
 You can run this project by dowloading or pushing it from github 
 You can run it with VisualStudioCode, VisualStudio or any program that supports C#
 
 
-#Thank You very much for looking at my C# Bank Project, see you next time!
+# Thank You very much for looking at my C# Bank Project, see you next time!
