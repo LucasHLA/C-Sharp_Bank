@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\bin\Debug\net6.0\CSharpBank.exe
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\bin\Debug\net6.0\CSharpBank.deps.json
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\bin\Debug\net6.0\CSharpBank.runtimeconfig.json
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\bin\Debug\net6.0\CSharpBank.dll
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\bin\Debug\net6.0\CSharpBank.pdb
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\CSharpBank.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\CSharpBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\CSharpBank.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\CSharpBank.AssemblyInfo.cs
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\CSharpBank.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\CSharpBank.dll
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\refint\CSharpBank.dll
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\CSharpBank.pdb
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\CSharpBank.genruntimeconfig.cache
+C:\Users\lukas\Desktop\C#_Projects\C#Bank\CSharpBank\obj\Debug\net6.0\ref\CSharpBank.dll
